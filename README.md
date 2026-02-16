@@ -1,5 +1,5 @@
 
-# 📊 Excel Project – Retail Sales Analysis & Interactive Reporting
+# 📊Retail Sales Analysis & Interactive Reporting
 
 **Author:** Swida Saeed  
 **Tool Used:** Microsoft Excel  
